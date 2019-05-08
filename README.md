@@ -3,6 +3,7 @@
 ### 工具
 * idea
 * git
+* maven
 
 ### 技术
 1. jsp
